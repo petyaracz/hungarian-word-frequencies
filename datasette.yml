@@ -1,15 +1,15 @@
 title: Hungarian Word Frequency Database
-description: |
-  Péter Rácz 2025. Please cite https://doi.org/10.5281/zenodo.17508385. Source: https://hlt.bme.hu/en/resources/webcorpus2
-  
+
 databases:
   frequencies:
+    description: |
+      Péter Rácz 2025. Please cite https://doi.org/10.5281/zenodo.17508385. Source: https://hlt.bme.hu/en/resources/webcorpus2
     tables:
       words:
         sort_desc: freq
         
 settings:
-  sql_time_limit_ms: 6000
+  sql_time_limit_ms: 7500
   max_returned_rows: 10000
   default_page_size: 100
 
