@@ -1,0 +1,14 @@
+title: Hungarian Word Frequency Database
+databases:
+  frequencies:
+    tables:
+      words:
+        sort_desc: freq
+        
+settings:
+  sql_time_limit_ms: 5000
+  max_returned_rows: 10000
+  default_page_size: 100
+
+plugins:
+  datasette-sqlite-regex: {}
