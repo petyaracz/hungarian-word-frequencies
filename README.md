@@ -2,6 +2,8 @@
 
 Search using web interface / SQL [here](https://hungarian-word-frequencies-production.up.railway.app/frequencies/words).
 
+Raw data in parquette [here](https://github.com/petyaracz/Webcorpus2FrequencyList).
+
 Plz cite:
 
 ```
