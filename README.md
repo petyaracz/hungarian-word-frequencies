@@ -1,6 +1,6 @@
 # Word Frequency Database from Hungarian Webcorpus 2
 
-Search using SQL at [your-url-will-go-here]
+Search using web interface / SQL (here)[https://hungarian-word-frequencies-production.up.railway.app/frequencies/words]
 
 Plz cite:
 
