@@ -2,10 +2,11 @@ title: Hungarian Word Frequency Database
 
 databases:
   frequencies:
-    description: |
-      Péter Rácz 2025. Please cite https://doi.org/10.5281/zenodo.17508385. Source: https://hlt.bme.hu/en/resources/webcorpus2
-    
-      Filtered to words where lemma appears in Hungarian Hunspell dictionary.
+    description_html: |
+      <p><strong>Péter Rácz 2025.</strong> Please cite <a href="https://doi.org/10.5281/zenodo.17508385">DOI: 10.5281/zenodo.17508385</a></p>
+      <p>Source: <a href="https://hlt.bme.hu/en/resources/webcorpus2">Hungarian Webcorpus 2.0</a></p>
+      <p>Contact: <a href="https://github.com/petyaracz/hungarian-word-frequencies/issues">Github</a></p>
+      <p>Filtered to words where lemma appears in Hungarian Hunspell dictionary.</p>
     tables:
       words:
         sort_desc: freq
