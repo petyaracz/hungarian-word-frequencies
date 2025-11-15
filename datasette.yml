@@ -9,7 +9,7 @@ databases:
         sort_desc: freq
         
 settings:
-  sql_time_limit_ms: 7500
+  sql_time_limit_ms: 10000
   max_returned_rows: 10000
   default_page_size: 100
 
