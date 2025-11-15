@@ -4,6 +4,8 @@ databases:
   frequencies:
     description: |
       Péter Rácz 2025. Please cite https://doi.org/10.5281/zenodo.17508385. Source: https://hlt.bme.hu/en/resources/webcorpus2
+    
+      Filtered to words where lemma appears in Hungarian Hunspell dictionary.
     tables:
       words:
         sort_desc: freq

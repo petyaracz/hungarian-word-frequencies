@@ -1,8 +1,10 @@
 # Word Frequency Database from Hungarian Webcorpus 2
 
+Spellchecked lemmata only.
+
 Search using web interface / SQL [here](https://hungarian-word-frequencies-production.up.railway.app/frequencies).
 
-Raw data in parquette [here](https://github.com/petyaracz/Webcorpus2FrequencyList).
+Raw data (including non-spellchecked forms) in parquette [here](https://github.com/petyaracz/Webcorpus2FrequencyList).
 
 Plz cite:
 
@@ -40,4 +42,3 @@ Original [here](https://hlt.bme.hu/en/resources/webcorpus2).
 | form_syl_count | n vowels form |
 | lemma_length | nchar lemma |
 | lemma_syl_count | n vowels lemma |
-| hunspell | does the hunspell spelling dictionary contain the lemma? |
