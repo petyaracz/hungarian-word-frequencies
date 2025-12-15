@@ -7,6 +7,7 @@ databases:
       <p>Source: <a href="https://hlt.bme.hu/en/resources/webcorpus2">Hungarian Webcorpus 2.0</a></p>
       <p>Contact: <a href="https://github.com/petyaracz/hungarian-word-frequencies/issues">Github</a></p>
       <p>Filtered to words where lemma appears in Hungarian Hunspell dictionary.</p>
+      <p>Member of the <a href="http://corpus.nytud.hu/nkp/">Hungarian National Corpus Portal</a>.</p>
     tables:
       words:
         sort_desc: freq
